@@ -1,7 +1,7 @@
 {
-  "name": "DIOR-UBOT",
-  "description": "DIOR-UBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
-  "logo": "https://telegra.ph/file/e2e2855baf3a668f6aa9e.jpg",
+  "name": "⚡𝐎𝐔𝐑𝐀-𝐔𝐁𝐎𝐓⚡",
+  "description": "𝐎𝐔𝐑𝐀-𝐔𝐁𝐎𝐓 KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
+  "logo": "https://telegra.ph/file/5d4e2278039409665a897.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
 ],
-  "repository": "https://github.com/DIORrios285/DIOR-UBOT",
-  "telegram": "https://t.me/uurfavboys",
-  "success_url": "https://t.me/fandasupport",
+  "repository": "https://github.com/Ouraaa/Ouraaa-userbot",
+  "telegram": "https://t.me/Ourastoree",
+  "success_url": "https://t.me/markettblack",
   "stack": "container",
   "env": {
     "API_KEY": {
@@ -61,7 +61,7 @@
     },
     "ALIVE_LOGO": {
       "description": "Boleh ganti dengan foto kalian atau /skip aja",
-      "value": "https://telegra.ph/file/e2e2855baf3a668f6aa9e.jpg",
+      "value": "https://telegra.ph/file/5d4e2278039409665a897.jpg",
       "required": true
     },
     "LOGSPAMMER": {
