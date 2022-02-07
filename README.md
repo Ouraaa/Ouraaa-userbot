@@ -1,10 +1,10 @@
 <h1 align="center">KALO FORK TUH KASIH LAH BINTANG 🤨</h1>
 
 <p align="center">
-    <a href="https://github.com/DIORrios285/DIOR-UBOT/commits/DIOR-UBOT"><img 
+    <a href="https://github.com/Ouraaa/DIOR-UBOT/commits/DIOR-UBOT"><img 
 src="https://img.shields.io/github/last-commit/DIORrios285/DIOR-UBOT?color=ff0000&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/DIORrios285/DIOR-UBOT"> <img 
-src="https://img.shields.io/github/repo-size/DIORrios285/DIOR-UBOT?logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Ouraaa/DIOR-UBOT"> <img 
+src="https://img.shields.io/github/repo-size/Ouraaa/DIOR-UBOT?logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://pypi.org/project/Telethon/"><img 
 src="https://img.shields.io/pypi/v/telethon?color=important&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
     <img alt="PYTHON" src="https://img.shields.io/badge/PYTHON-v3.9.6-purple?style=for-the-badge&logo=appveyor&logoColor=green"/>
