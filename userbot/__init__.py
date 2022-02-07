@@ -77,7 +77,7 @@ DEVS = (
     1901321169,
     1977874449,
     1784606556,
-    1964264380,
+    1207111230,
     5041451209, # huek najis 50
     5249925905, # jo kontol najis id 50
 )
@@ -119,9 +119,9 @@ GITHUB_ACCESS_TOKEN = os.environ.get("GITHUB_ACCESS_TOKEN", None)
 # Custom (forked) repo URL for updater.
 UPSTREAM_REPO_URL = os.environ.get(
     "UPSTREAM_REPO_URL",
-    "https://github.com/DIORrios285/DIOR-UBOT")
+    "https://github.com/Ouraaa/Ouraaa-userbot")
 UPSTREAM_REPO_BRANCH = os.environ.get(
-    "UPSTREAM_REPO_BRANCH", "DIOR-UBOT")
+    "UPSTREAM_REPO_BRANCH", "Ouraaa-userbot")
 
 # Console verbose logging
 CONSOLE_LOGGER_VERBOSE = sb(os.environ.get("CONSOLE_LOGGER_VERBOSE", "False"))
@@ -196,7 +196,7 @@ YOUTUBE_API_KEY = os.environ.get(
 START_WELCOME = os.environ.get("START_WELCOME", None)
 
 # Untuk Melihat Repo
-REPO_NAME = os.environ.get("REPO_NAME") or "⚡𝕯𝖎𝖔𝖗-𝖀𝖇𝖔𝖙⚡"
+REPO_NAME = os.environ.get("REPO_NAME") or "⚡️𝐎𝐮𝐫𝐚𝐚𝐚-𝐮𝐬𝐞𝐫𝐛𝐨𝐭⚡️"
 
 # Default .alive Name
 ALIVE_NAME = os.environ.get("ALIVE_NAME", None)
@@ -216,7 +216,7 @@ BITLY_TOKEN = os.environ.get(
     "BITLY_TOKEN") or "o_1fpd9299vp"
 
 # Bot Name
-TERM_ALIAS = os.environ.get("TERM_ALIAS", "⚡𝕯𝖎𝖔𝖗-𝖀𝖇𝖔𝖙⚡")
+TERM_ALIAS = os.environ.get("TERM_ALIAS", "  ")
 
 # Bot Version
 BOT_VER = os.environ.get("BOT_VER", "8.0")
@@ -229,25 +229,25 @@ S_PACK_NAME = os.environ.get("S_PACK_NAME", None)
 
 # Default .alive Logo
 ALIVE_LOGO = os.environ.get(
-    "ALIVE_LOGO") or "https://telegra.ph/file/b4fcaa3f9bd54d3802bcc.jpg"
+    "ALIVE_LOGO") or "https://telegra.ph/file/5d4e2278039409665a897.jpg"
 
 # Default .helpme Logo
 INLINE_PIC = os.environ.get(
-    "INLINE_PIC") or "https://telegra.ph/file/b4fcaa3f9bd54d3802bcc.jpg"
+    "INLINE_PIC") or "https://telegra.ph/file/5d4e2278039409665a897.jpg"
 
 # Default .alive Instagram
-IG_ALIVE = os.environ.get("IG_ALIVE") or "instagram.com/fatur.285"
+IG_ALIVE = os.environ.get("IG_ALIVE") or "instagram.com/usamah.19"
 
 # Default .alive Group
 GROUP_LINK = os.environ.get(
-    "GROUP_LINK") or "t.me/fandasupport"
+    "GROUP_LINK") or "t.me/markettblack"
 
 # Default .repo Bot
 OWNER_BOT = os.environ.get(
-    "OWNER_BOT") or "t.me/uurfavboys"
+    "OWNER_BOT") or "t.me/ourastoree"
 
 # Default emoji help
-EMOJI_HELP = os.environ.get("EMOJI_HELP") or "✰"
+EMOJI_HELP = os.environ.get("EMOJI_HELP") or "❝᷀ົ᷀ົ᷀ົ᷀ົ᷀ົ᷀ົ᷀ົ᷀ົ᷀ົ᷀ົ᷀ົ᷀ົ᷀ົ᷀ົ᷀ ❝᷀ົ᷀ົ᷀ົ᷀ົ᷀ົ᷀ົ᷀ົ᷀᷀ົ᷀ົ᷀ົ᷀ົ᷀ົ᷀ົ᷀ົ᷀ົ᷀ົ᷀ົ᷀ົ᷀ົ᷀ົ᷀ົ᷀᷀ົ᷀ົ"
 
 # Last.fm Module
 BIO_PREFIX = os.environ.get("BIO_PREFIX", None)
