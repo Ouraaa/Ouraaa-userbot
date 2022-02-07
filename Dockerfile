@@ -4,7 +4,7 @@ FROM kyyex/kyy-userbot:buster
 # Geez-UserBot
 #yaudah iya
 
-RUN git clone -b Ouraaa-userbot https://github.com/Ouraaa/Ouraaa-userbot /root/userbot
+RUN git clone -b Ouraaa-userbot https://github.com/DIORrios285/DIOR-UBOT /root/userbot
 RUN mkdir /root/userbot/.bin
 RUN pip install --upgrade pip setuptools
 WORKDIR /root/userbot
